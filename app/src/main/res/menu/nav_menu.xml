@@ -1,0 +1,42 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    tools:showIn="navigation_view">
+
+
+    <item
+        android:id="@+id/nav_home"
+        android:icon="@drawable/ic_baseline_home_24"
+        android:title="Sākumlapa"/>
+
+    <item
+        android:id="@+id/nav_planner"
+        android:icon="@drawable/ic_baseline_access_time_24"
+        android:title="Plānotājs"/>
+
+    <item
+        android:id="@+id/nav_learningproc"
+        android:icon="@drawable/ic_baseline_library_books_24"
+        android:title="Mācību process"/>
+
+    <item
+        android:id="@+id/nav_subjects"
+        android:icon="@drawable/ic_baseline_menu_book_24"
+        android:title="Priekšmeti"/>
+
+    <item
+        android:id="@+id/nav_tests"
+        android:icon="@drawable/ic_baseline_flag_24"
+        android:title="Pārbaudes darbi"/>
+
+    <item
+        android:id="@+id/nav_achievements"
+        android:icon="@drawable/ic_baseline_grade_24"
+        android:title="Sasniegumi"/>
+
+    <item
+        android:id="@+id/nav_exams"
+        android:icon="@drawable/ic_baseline_task_24"
+        android:title="Eksāmeni"/>
+
+</menu>
